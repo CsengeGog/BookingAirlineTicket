@@ -1,0 +1,6 @@
+com\csenge\gog\ticketprices\repository\FlightsRepository.class
+com\csenge\gog\ticketprices\service\FlightService.class
+com\csenge\gog\ticketprices\controller\FlightsController.class
+com\csenge\gog\ticketprices\entity\Flights.class
+com\csenge\gog\ticketprices\configuration\DataInitializer.class
+com\csenge\gog\ticketprices\TicketpricesApplication.class

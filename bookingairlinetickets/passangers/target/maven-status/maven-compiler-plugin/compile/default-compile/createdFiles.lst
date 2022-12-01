@@ -1,0 +1,5 @@
+com\csenge\gog\passangers\repository\PassangerRepository.class
+com\csenge\gog\passangers\controller\PassangerController.class
+com\csenge\gog\passangers\service\PassangerService.class
+com\csenge\gog\passangers\entity\Passangers.class
+com\csenge\gog\passangers\PassangersApplication.class
